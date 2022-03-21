@@ -7,10 +7,10 @@ function Task() {
 
         1- What is the correct command to create a new React project?
 
-        {/* 1- npx create-react-app myREactApp */}
+        1- npx create-react-app myREactApp
         2- npm create-react-app myreactapp
         3- npm create-react-app 
-        4- npx create-react-app myreactApp
+        {/* 4- npx create-react-app myreactapp  */}
         5- npx create-react-app 
 
 
@@ -57,9 +57,9 @@ function Task() {
 
         7- What is the correct syntax to import a Component from React?
 
-        {/* 1- import Component from 'react' */}
+        1- import Component from 'react'
         2- import React.Component from 'react'
-        3- import {Component} from 'react'
+        {/*  3- import {Component} from 'react'  */}
         4- import [Component] from 'react'
 
 
